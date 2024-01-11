@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Sistema de Login!</h1></summary>
 
 ## Iniciando...
-    Projeto montado atrávez do JAVA, utilizando Orientação a Objetos.
+    Projeto montado atráves do JAVA, utilizando Orientação a Objetos.
 Um sistema básico de login que dá ao usuario a opção de trocar sua senha.
 A senha fica salva no Banco de Dados e caso a primeira senha seja colocada, o programa recomeça.
  </div>
